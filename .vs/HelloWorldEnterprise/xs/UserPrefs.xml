@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{95EE3D7E-04D4-4039-8C71-76E48ACA2CB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldEnterprise/UnitTest.cs">
+    <Files>
+      <File FileName="HelloWorldEnterprise/Program.cs" Line="11" Column="24" />
+      <File FileName="HelloWorldEnterprise/Repositories/IRepo.cs" Line="6" Column="23" />
+      <File FileName="HelloWorldEnterprise/Repositories/HelloWorldRepo.cs" Line="12" Column="1" />
+      <File FileName="HelloWorldEnterprise/NUnitTestClass.cs" Line="10" Column="6" />
+      <File FileName="HelloWorldEnterprise/IWriter.cs" Line="6" Column="22" />
+      <File FileName="HelloWorldEnterprise/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldEnterprise" expanded="True">
+            <Node name="HelloWorldEnterprise" expanded="True">
+              <Node name="UnitTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HelloWorldEnterprise" expanded="True">
+            <Node name="HelloWorldEnterprise" expanded="True">
+              <Node name="HelloWorldEnterprise" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorldEnterprise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

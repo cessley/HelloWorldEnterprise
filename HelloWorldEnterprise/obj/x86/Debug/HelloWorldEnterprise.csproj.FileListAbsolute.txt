@@ -1,0 +1,10 @@
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/obj/x86/Debug/HelloWorldEnterprise.csprojAssemblyReference.cache
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/obj/x86/Debug/HelloWorldEnterprise.csproj.CoreCompileInputs.cache
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/bin/Debug/HelloWorldEnterprise.exe
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/bin/Debug/HelloWorldEnterprise.pdb
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/bin/Debug/nunit.framework.dll
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/bin/Debug/nunit.framework.pdb
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/bin/Debug/nunit.framework.xml
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/obj/x86/Debug/HelloWorldEnterprise.csproj.CopyComplete
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/obj/x86/Debug/HelloWorldEnterprise.exe
+/Users/chris/Projects/HelloWorldEnterprise/HelloWorldEnterprise/obj/x86/Debug/HelloWorldEnterprise.pdb
